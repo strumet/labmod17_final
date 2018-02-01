@@ -1,0 +1,11 @@
+Name: gostynaya
+Version: 2013
+Preview: No
+Units: Millimeters
+Dimension: 3200.0 x 703.66 x 2817.22
+Polys: 245 313
+XForm: Yes
+Box Trick: No
+Model Parts: 195
+Render: V-Ray
+Formats: 3Ds Max 2013
